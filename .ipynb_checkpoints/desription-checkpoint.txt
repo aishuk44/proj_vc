@@ -1,0 +1,3 @@
+We chose to use Googles's code of conduct as a example because Google perfectly emphasizes the values it maintains and employees’ responsibilities to the company, shareholders, customers, and each other. The document also includes other relevant policies the reader can reference within each section.
+
+The Google Code of Conduct is also one of the ways we can put Google's values into practice. It's built around the recognition that everything we do in connection with our work at Google will be, and should be, measured against the highest possible standards of ethical business conduct.

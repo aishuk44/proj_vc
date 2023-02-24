@@ -1,7 +1,5 @@
 Google code of conduct
 
-(We chose to use Googles's code of conduct as a example because Google perfectly emphasizes the values it maintains and employees’ responsibilities to the company, shareholders, customers, and each other. The document also includes other relevant policies the reader can reference within each section.)
-
 The Google Code of Conduct is one of the ways we put Google’s values into practice. It’s built around the recognition that everything we do in connection with our work at Google will be, and should be, measured against the highest possible standards of ethical business conduct. We set the bar that high for practical as well as aspirational reasons: Our commitment to the highest standards helps us hire great people, build great products, and attract loyal users. Respect for our users, for the opportunity, and for each other are foundational to our success, and are something we need to support every day.
 
 So please do read the Code and Google’s values, and follow both in spirit and letter, always bearing in mind that each of us has a personal responsibility to incorporate, and to encourage other Googlers to incorporate, the principles of the Code and values into our work. And if you have a question or ever think that one of your fellow Googlers or the company as a whole may be falling short of our commitment, don’t be silent. We want – and need – to hear from you.
